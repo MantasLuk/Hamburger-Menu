@@ -168,7 +168,7 @@
 }
 
 .menu-wrap .toggler:checked ~ .menu > div {
-    transform: scale(1);
+    transform: scale(1.2);
     transition-duration: var(--menu-speed);
 }
 
