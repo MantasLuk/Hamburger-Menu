@@ -32,7 +32,7 @@
 
 .showcase::before{
     content: '';
-    background: url(../img/neon.jpg) no-repeat center center/cover;
+    background: url(/img/neon.jpg) no-repeat center center/cover;
     position: absolute;
     top: 0;
     left: 0;
@@ -174,7 +174,6 @@
 
 .menu-wrap .toggler:checked ~ .menu > div > div {
     opacity: 1;
-    transform: rotate(1080deg);
     transition: all 400ms ease-in;
 }
 
