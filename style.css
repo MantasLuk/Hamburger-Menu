@@ -28,11 +28,11 @@
     color: white;
     height: 100vh;
     position: relative;
+    background: url(/img/neon.jpg) no-repeat center center/cover;
 }
 
 .showcase::before{
     content: '';
-    background: url(/img/neon.jpg) no-repeat center center/cover;
     position: absolute;
     top: 0;
     left: 0;
