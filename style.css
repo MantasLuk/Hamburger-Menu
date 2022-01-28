@@ -4,7 +4,6 @@
     --primary-clr: rgba(32, 6, 28, 0.65);
     --overlay-clr: rgba(22, 13, 15, 0.85);
     --menu-speed: 0.75s;
-
 }
 
 *{
@@ -35,6 +34,7 @@
     position: absolute;
     top: 0;
     left: 0;
+    background: url(./img/dune.jpg) no-repeat center center/cover;
     width: 100%;
     height: 100%;
     z-index: -1;
