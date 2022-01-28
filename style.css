@@ -5,7 +5,9 @@
     --overlay-clr: rgba(22, 13, 15, 0.85);
     --menu-speed: 0.75s;
 }
-
+body{
+    background: url(./img/dune.jpg) no-repeat center
+}
 *{
     box-sizing: border-box;
     margin: 0;
